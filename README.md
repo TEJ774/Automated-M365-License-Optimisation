@@ -30,9 +30,9 @@ Power Automate (Cloud) = Review workflow and approvals
 PowerShell = Usage analysis, eligibility logic, logging 
 Power Automate Desktop (RPA) =  UI interaction with legacy portals
 
-## Example Process Flow
+## Process Flow
 
-1. License usage data is collected (simulated)
+1. License usage data is collected.
 2. PowerShell identifies unused or underused licenses
 3. Power Automate routes recommendations for approval
 4. Approved licenses are downgraded or reclaimed
